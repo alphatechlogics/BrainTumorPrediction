@@ -30,7 +30,6 @@ dataclasses-json==0.6.7
 dbus-python==1.2.18
 Deprecated==1.2.15
 distro==1.7.0
-duplicity==0.8.21
 durationpy==0.9
 effdet==0.4.1
 emoji==2.14.0
