@@ -84,7 +84,6 @@ langchain-openai==0.2.14
 langchain-text-splitters==0.3.4
 langdetect==1.0.9
 langsmith==0.2.6
-language-selector==0.1
 launchpadlib==1.10.16
 layoutparser==0.3.4
 lazr.restfulclient==0.14.4
