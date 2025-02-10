@@ -168,7 +168,6 @@ pydantic==2.9.2
 pydantic-settings==2.7.0
 pydantic_core==2.23.4
 Pygments==2.18.0
-PyGObject==3.42.1
 PyJWT==2.3.0
 pymacaroons==0.13.0
 PyMuPDF==1.25.1
@@ -202,7 +201,6 @@ rich==13.9.4
 rsa==4.9
 safetensors==0.4.5
 scipy==1.14.1
-screen-resolution-extra==0.0.0
 SecretStorage==3.3.1
 shellingham==1.5.4
 six==1.16.0
